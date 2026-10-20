@@ -1,0 +1,943 @@
+{
+  "timeline": [
+    {
+      "type": "hook",
+      "scene_id": "hook_01_three_doors",
+      "speech": "Three sealed blast doors have materialized in the lower maintenance sub-level. One contains survivable terrain. The others lead to terminal non-spaces. Choose your door before the lockdown seals permanently.",
+      "speech_wav": "C:\\Users\\yoshikiinyein\\.gemini\\antigravity\\scratch\\analog_lore_studio\\assets\\temp_voice\\speech_hook.wav",
+      "speech_duration": 14.95715905409783,
+      "total_duration": 15.45715905409783,
+      "pause_after": 0.8,
+      "option_name": "CHOOSE ONE TO SURVIVE: SUB-LEVEL ENTRANCES",
+      "is_option_start": false,
+      "stills": [
+        {
+          "still_id": "hook_01_three_doors_angle1",
+          "angle_name": "THREE DOORS WIDE",
+          "focus": "wide"
+        },
+        {
+          "still_id": "hook_01_three_doors_angle2",
+          "angle_name": "DOORS 1 AND 2 LOCKS",
+          "focus": "corridor"
+        },
+        {
+          "still_id": "hook_01_three_doors_angle3",
+          "angle_name": "NUMBER STENCIL CLOSE-UP",
+          "focus": "close_up"
+        }
+      ],
+      "start_time": 0.0,
+      "end_time": 15.45715905409783
+    },
+    {
+      "type": "option_scene",
+      "option_index": 1,
+      "option_name": "OPTION 1: THE POOLROOMS (LEVEL 37)",
+      "scene_id": "opt1_sc1_entry",
+      "scene_type": "environment",
+      "speech": "If you choose Door Number One, you step into Level Thirty-Seven, commonly known as The Poolrooms. The heavy iron door slams shut and the latch dissolves into solid ceramic.",
+      "speech_wav": "C:\\Users\\yoshikiinyein\\.gemini\\antigravity\\scratch\\analog_lore_studio\\assets\\temp_voice\\speech_opt1_sc1_entry.wav",
+      "speech_duration": 11.121436669906057,
+      "total_duration": 11.471436669906057,
+      "pause_after": 0.35,
+      "is_option_start": true,
+      "is_deadzone": false,
+      "stills": [
+        {
+          "still_id": "opt1_sc1_entry_angle1",
+          "angle_name": "WIDE ESTABLISHING",
+          "focus": "wide"
+        },
+        {
+          "still_id": "opt1_sc1_entry_angle2",
+          "angle_name": "CORRIDOR PERSPECTIVE",
+          "focus": "corridor"
+        },
+        {
+          "still_id": "opt1_sc1_entry_angle3",
+          "angle_name": "DISSOLVING LATCH DETAIL",
+          "focus": "close_up"
+        }
+      ],
+      "start_time": 15.45715905409783,
+      "end_time": 26.928595724003884
+    },
+    {
+      "type": "option_scene",
+      "option_index": 1,
+      "option_name": "OPTION 1: THE POOLROOMS (LEVEL 37)",
+      "scene_id": "opt1_sc2_environment",
+      "scene_type": "environment",
+      "speech": "The air is humid and smells faintly of chlorinated bleach. Acoustic echoes here are dilated. Footsteps echo for up to twenty seconds, masking the sound of approaching entities.",
+      "speech_wav": "C:\\Users\\yoshikiinyein\\.gemini\\antigravity\\scratch\\analog_lore_studio\\assets\\temp_voice\\speech_opt1_sc2_environment.wav",
+      "speech_duration": 12.364289763524457,
+      "total_duration": 12.714289763524457,
+      "pause_after": 0.35,
+      "is_option_start": false,
+      "is_deadzone": false,
+      "stills": [
+        {
+          "still_id": "opt1_sc2_environment_angle1",
+          "angle_name": "WIDE ARCHES",
+          "focus": "wide"
+        },
+        {
+          "still_id": "opt1_sc2_environment_angle2",
+          "angle_name": "CORNER RECEDING MIST",
+          "focus": "corner"
+        },
+        {
+          "still_id": "opt1_sc2_environment_angle3",
+          "angle_name": "WATER RIPPLE CLOSE-UP",
+          "focus": "close_up"
+        }
+      ],
+      "start_time": 26.928595724003884,
+      "end_time": 39.64288548752834
+    },
+    {
+      "type": "option_scene",
+      "option_index": 1,
+      "option_name": "OPTION 1: THE POOLROOMS (LEVEL 37)",
+      "scene_id": "opt1_sc3_rations",
+      "scene_type": "rations",
+      "speech": "For hydration, do not drink the standing pool water, as it causes severe cellular dehydration. Instead, collect the fresh condensation dripping from overhead copper pipes.",
+      "speech_wav": "C:\\Users\\yoshikiinyein\\.gemini\\antigravity\\scratch\\analog_lore_studio\\assets\\temp_voice\\speech_opt1_sc3_rations.wav",
+      "speech_duration": 11.785714285714285,
+      "total_duration": 12.135714285714284,
+      "pause_after": 0.35,
+      "is_option_start": false,
+      "is_deadzone": false,
+      "stills": [
+        {
+          "still_id": "opt1_sc3_rations_angle1",
+          "angle_name": "OVERHEAD PIPE SYSTEM",
+          "focus": "wide"
+        },
+        {
+          "still_id": "opt1_sc3_rations_angle2",
+          "angle_name": "DRIPPING CONDENSATION DROPLETS",
+          "focus": "detail"
+        },
+        {
+          "still_id": "opt1_sc3_rations_angle3",
+          "angle_name": "CANTEEN ON TILED LEDGE",
+          "focus": "close_up"
+        }
+      ],
+      "start_time": 39.64288548752834,
+      "end_time": 51.778599773242625
+    },
+    {
+      "type": "option_scene",
+      "option_index": 1,
+      "option_name": "OPTION 1: THE POOLROOMS (LEVEL 37)",
+      "scene_id": "opt1_sc4_entities",
+      "scene_type": "entity",
+      "speech": "Avoid the darker deep-end tunnels. Submerged drain currents harbor shadow ripple anomalies that pull survivors beneath the tiled floors without leaving a wake.",
+      "speech_wav": "C:\\Users\\yoshikiinyein\\.gemini\\antigravity\\scratch\\analog_lore_studio\\assets\\temp_voice\\speech_opt1_sc4_entities.wav",
+      "speech_duration": 10.607142857142858,
+      "total_duration": 10.957142857142857,
+      "pause_after": 0.35,
+      "is_option_start": false,
+      "is_deadzone": false,
+      "stills": [
+        {
+          "still_id": "opt1_sc4_entities_angle1",
+          "angle_name": "DISTANT WATER SILHOUETTE",
+          "focus": "wide"
+        },
+        {
+          "still_id": "opt1_sc4_entities_angle2",
+          "angle_name": "APPROACHING SHADOW RIPPLE",
+          "focus": "entity"
+        },
+        {
+          "still_id": "opt1_sc4_entities_angle3",
+          "angle_name": "UNSETTLING ENTITY CLOSE-UP",
+          "focus": "close_up"
+        }
+      ],
+      "start_time": 51.778599773242625,
+      "end_time": 62.73574263038548
+    },
+    {
+      "type": "option_scene",
+      "option_index": 1,
+      "option_name": "OPTION 1: THE POOLROOMS (LEVEL 37)",
+      "scene_id": "opt1_sc5_protocol",
+      "scene_type": "environment",
+      "speech": "Stay on the elevated dry walkways. Walk toward the hum of the filtration pumps until you reach the maintenance stairwell. Your twenty-four hour survival probability is seventy-eight percent.",
+      "speech_wav": "C:\\Users\\yoshikiinyein\\.gemini\\antigravity\\scratch\\analog_lore_studio\\assets\\temp_voice\\speech_opt1_sc5_protocol.wav",
+      "speech_duration": 11.292861192095884,
+      "total_duration": 12.092861192095885,
+      "pause_after": 0.8,
+      "is_option_start": false,
+      "is_deadzone": false,
+      "stills": [
+        {
+          "still_id": "opt1_sc5_protocol_angle1",
+          "angle_name": "ELEVATED WALKWAYS",
+          "focus": "wide"
+        },
+        {
+          "still_id": "opt1_sc5_protocol_angle2",
+          "angle_name": "PUMP MACHINERY SHADOW",
+          "focus": "corridor"
+        },
+        {
+          "still_id": "opt1_sc5_protocol_angle3",
+          "angle_name": "EMERGENCY STAIRWELL EXIT",
+          "focus": "close_up"
+        }
+      ],
+      "start_time": 62.73574263038548,
+      "end_time": 74.82860382248137
+    },
+    {
+      "type": "option_scene",
+      "option_index": 2,
+      "option_name": "OPTION 2: THE 1986 DEAD MALL",
+      "scene_id": "opt2_sc1_entry",
+      "scene_type": "environment",
+      "speech": "If you open Door Number Two, you enter an abandoned multi-tier shopping atrium frozen in nineteen eighty-six. The air smells of old carpet and ozone.",
+      "speech_wav": "C:\\Users\\yoshikiinyein\\.gemini\\antigravity\\scratch\\analog_lore_studio\\assets\\temp_voice\\speech_opt2_sc1_entry.wav",
+      "speech_duration": 9.364289763524457,
+      "total_duration": 9.714289763524457,
+      "pause_after": 0.35,
+      "is_option_start": true,
+      "is_deadzone": false,
+      "stills": [
+        {
+          "still_id": "opt2_sc1_entry_angle1",
+          "angle_name": "WIDE ATRIUM ESCALATORS",
+          "focus": "wide"
+        },
+        {
+          "still_id": "opt2_sc1_entry_angle2",
+          "angle_name": "DARK MEZZANINE CORRIDOR",
+          "focus": "corridor"
+        },
+        {
+          "still_id": "opt2_sc1_entry_angle3",
+          "angle_name": "DIRTY ATRIUM SKYLIGH",
+          "focus": "close_up"
+        }
+      ],
+      "start_time": 74.82860382248137,
+      "end_time": 84.54289358600583
+    },
+    {
+      "type": "option_scene",
+      "option_index": 2,
+      "option_name": "OPTION 2: THE 1986 DEAD MALL",
+      "scene_id": "opt2_sc2_environment",
+      "scene_type": "environment",
+      "speech": "An endless distorted elevator muzak plays from crackling PA speakers. Prolonged exposure causes rapid short-term memory loss within forty minutes.",
+      "speech_wav": "C:\\Users\\yoshikiinyein\\.gemini\\antigravity\\scratch\\analog_lore_studio\\assets\\temp_voice\\speech_opt2_sc2_environment.wav",
+      "speech_duration": 10.82142857142857,
+      "total_duration": 11.171428571428569,
+      "pause_after": 0.35,
+      "is_option_start": false,
+      "is_deadzone": false,
+      "stills": [
+        {
+          "still_id": "opt2_sc2_environment_angle1",
+          "angle_name": "STOREFRONTS & PA SPEAKER",
+          "focus": "wide"
+        },
+        {
+          "still_id": "opt2_sc2_environment_angle2",
+          "angle_name": "RUSTED SECURITY GRATES",
+          "focus": "corridor"
+        },
+        {
+          "still_id": "opt2_sc2_environment_angle3",
+          "angle_name": "CRACKED SPEAKER CONE",
+          "focus": "close_up"
+        }
+      ],
+      "start_time": 84.54289358600583,
+      "end_time": 95.7143221574344
+    },
+    {
+      "type": "option_scene",
+      "option_index": 2,
+      "option_name": "OPTION 2: THE 1986 DEAD MALL",
+      "scene_id": "opt2_sc3_rations",
+      "scene_type": "rations",
+      "speech": "For sustenance, search the food court stockrooms for intact hermetically sealed steel canned goods. Never touch open beverage dispensers or warm sodas.",
+      "speech_wav": "C:\\Users\\yoshikiinyein\\.gemini\\antigravity\\scratch\\analog_lore_studio\\assets\\temp_voice\\speech_opt2_sc3_rations.wav",
+      "speech_duration": 9.557155004859085,
+      "total_duration": 9.907155004859085,
+      "pause_after": 0.35,
+      "is_option_start": false,
+      "is_deadzone": false,
+      "stills": [
+        {
+          "still_id": "opt2_sc3_rations_angle1",
+          "angle_name": "FOOD COURT STOCKROOM",
+          "focus": "wide"
+        },
+        {
+          "still_id": "opt2_sc3_rations_angle2",
+          "angle_name": "SEALED CANNED GOODS SHELF",
+          "focus": "rations"
+        },
+        {
+          "still_id": "opt2_sc3_rations_angle3",
+          "angle_name": "FLASHLIGHT ON RATION LABELS",
+          "focus": "close_up"
+        }
+      ],
+      "start_time": 95.7143221574344,
+      "end_time": 105.62147716229347
+    },
+    {
+      "type": "option_scene",
+      "option_index": 2,
+      "option_name": "OPTION 2: THE 1986 DEAD MALL",
+      "scene_id": "opt2_sc4_entities",
+      "scene_type": "entity",
+      "speech": "Beware the store mannequins. They only relocate when unobserved. If you turn a corner and notice a mannequin facing toward you, immediately retrace your footsteps.",
+      "speech_wav": "C:\\Users\\yoshikiinyein\\.gemini\\antigravity\\scratch\\analog_lore_studio\\assets\\temp_voice\\speech_opt2_sc4_entities.wav",
+      "speech_duration": 10.114289763524457,
+      "total_duration": 10.464289763524457,
+      "pause_after": 0.35,
+      "is_option_start": false,
+      "is_deadzone": false,
+      "stills": [
+        {
+          "still_id": "opt2_sc4_entities_angle1",
+          "angle_name": "DISTANT MANNEQUINS GROUP",
+          "focus": "wide"
+        },
+        {
+          "still_id": "opt2_sc4_entities_angle2",
+          "angle_name": "MANNEQUIN FACING CAMERA",
+          "focus": "entity"
+        },
+        {
+          "still_id": "opt2_sc4_entities_angle3",
+          "angle_name": "FACELESS UNSETTLING GAZE",
+          "focus": "close_up"
+        }
+      ],
+      "start_time": 105.62147716229347,
+      "end_time": 116.08576692581794
+    },
+    {
+      "type": "option_scene",
+      "option_index": 2,
+      "option_name": "OPTION 2: THE 1986 DEAD MALL",
+      "scene_id": "opt2_sc5_protocol",
+      "scene_type": "environment",
+      "speech": "Cover your ears with cloth to mitigate the audio hazard, stay away from reflective store glass, and reach the loading bay before midnight. Survival rate is thirty-one percent.",
+      "speech_wav": "C:\\Users\\yoshikiinyein\\.gemini\\antigravity\\scratch\\analog_lore_studio\\assets\\temp_voice\\speech_opt2_sc5_protocol.wav",
+      "speech_duration": 11.485726433430514,
+      "total_duration": 12.285726433430515,
+      "pause_after": 0.8,
+      "is_option_start": false,
+      "is_deadzone": false,
+      "stills": [
+        {
+          "still_id": "opt2_sc5_protocol_angle1",
+          "angle_name": "WIDE LOADING BAY",
+          "focus": "wide"
+        },
+        {
+          "still_id": "opt2_sc5_protocol_angle2",
+          "angle_name": "RUBBER STRIP CURTAINS",
+          "focus": "corridor"
+        },
+        {
+          "still_id": "opt2_sc5_protocol_angle3",
+          "angle_name": "AMBER BEACON LIGHT",
+          "focus": "close_up"
+        }
+      ],
+      "start_time": 116.08576692581794,
+      "end_time": 128.37149335924846
+    },
+    {
+      "type": "option_scene",
+      "option_index": 3,
+      "option_name": "OPTION 3: SECTOR 0 (RED UTILITY TUNNELS)",
+      "scene_id": "opt3_sc1_entry",
+      "scene_type": "environment",
+      "speech": "Door Number Three leads straight down into Sector Zero. The heavy airlock seals automatically, locking you into a subterranean network bathed in crimson emergency strobes.",
+      "speech_wav": "C:\\Users\\yoshikiinyein\\.gemini\\antigravity\\scratch\\analog_lore_studio\\assets\\temp_voice\\speech_opt3_sc1_entry.wav",
+      "speech_duration": 11.7642938127632,
+      "total_duration": 12.114293812763199,
+      "pause_after": 0.35,
+      "is_option_start": true,
+      "is_deadzone": true,
+      "stills": [
+        {
+          "still_id": "opt3_sc1_entry_angle1",
+          "angle_name": "WIDE CRIMSON AIRLOCK",
+          "focus": "wide"
+        },
+        {
+          "still_id": "opt3_sc1_entry_angle2",
+          "angle_name": "CURVED TUNNEL PERSPECTIVE",
+          "focus": "corridor"
+        },
+        {
+          "still_id": "opt3_sc1_entry_angle3",
+          "angle_name": "RED EMERGENCY STROBE",
+          "focus": "close_up"
+        }
+      ],
+      "start_time": 128.37149335924846,
+      "end_time": 140.48578717201167
+    },
+    {
+      "type": "option_scene",
+      "option_index": 3,
+      "option_name": "OPTION 3: SECTOR 0 (RED UTILITY TUNNELS)",
+      "scene_id": "opt3_sc2_environment",
+      "scene_type": "environment",
+      "speech": "The ambient temperature exceeds one hundred and ten degrees. High pressure steam pipes periodically rupture without warning, causing instantaneous third-degree burns.",
+      "speech_wav": "C:\\Users\\yoshikiinyein\\.gemini\\antigravity\\scratch\\analog_lore_studio\\assets\\temp_voice\\speech_opt3_sc2_environment.wav",
+      "speech_duration": 10.45715905409783,
+      "total_duration": 10.807159054097829,
+      "pause_after": 0.35,
+      "is_option_start": false,
+      "is_deadzone": true,
+      "stills": [
+        {
+          "still_id": "opt3_sc2_environment_angle1",
+          "angle_name": "STEAM CATWALK",
+          "focus": "wide"
+        },
+        {
+          "still_id": "opt3_sc2_environment_angle2",
+          "angle_name": "RUPTURED VALVE STEAM JET",
+          "focus": "corridor"
+        },
+        {
+          "still_id": "opt3_sc2_environment_angle3",
+          "angle_name": "BOILING PRESSURE GAUGE",
+          "focus": "close_up"
+        }
+      ],
+      "start_time": 140.48578717201167,
+      "end_time": 151.2929462261095
+    },
+    {
+      "type": "option_scene",
+      "option_index": 3,
+      "option_name": "OPTION 3: SECTOR 0 (RED UTILITY TUNNELS)",
+      "scene_id": "opt3_sc3_rations",
+      "scene_type": "rations",
+      "speech": "You will spot green emergency ration crates placed conveniently in junctions. Do not touch them. These are mimic bait deployed by indigenous predators to trap starving survivors.",
+      "speech_wav": "C:\\Users\\yoshikiinyein\\.gemini\\antigravity\\scratch\\analog_lore_studio\\assets\\temp_voice\\speech_opt3_sc3_rations.wav",
+      "speech_duration": 11.892857142857142,
+      "total_duration": 12.242857142857142,
+      "pause_after": 0.35,
+      "is_option_start": false,
+      "is_deadzone": true,
+      "stills": [
+        {
+          "still_id": "opt3_sc3_rations_angle1",
+          "angle_name": "JUNCTION CRATE WIDE",
+          "focus": "wide"
+        },
+        {
+          "still_id": "opt3_sc3_rations_angle2",
+          "angle_name": "OLIVE DRAB CRATE STENCIL",
+          "focus": "rations"
+        },
+        {
+          "still_id": "opt3_sc3_rations_angle3",
+          "angle_name": "MIMIC CLAW MARKS ON LATCH",
+          "focus": "close_up"
+        }
+      ],
+      "start_time": 151.2929462261095,
+      "end_time": 163.53580336896664
+    },
+    {
+      "type": "option_scene",
+      "option_index": 3,
+      "option_name": "OPTION 3: SECTOR 0 (RED UTILITY TUNNELS)",
+      "scene_id": "opt3_sc4_entities",
+      "scene_type": "entity",
+      "speech": "The primary entity in Sector Zero mimics the desperate voices of your relatives calling for help. It navigates entirely by flashlight beams and acoustic resonance.",
+      "speech_wav": "C:\\Users\\yoshikiinyein\\.gemini\\antigravity\\scratch\\analog_lore_studio\\assets\\temp_voice\\speech_opt3_sc4_entities.wav",
+      "speech_duration": 11.571428571428571,
+      "total_duration": 11.92142857142857,
+      "pause_after": 0.35,
+      "is_option_start": false,
+      "is_deadzone": true,
+      "stills": [
+        {
+          "still_id": "opt3_sc4_entities_angle1",
+          "angle_name": "DISTANT GAUNT SILHOUETTE",
+          "focus": "wide"
+        },
+        {
+          "still_id": "opt3_sc4_entities_angle2",
+          "angle_name": "APPROACHING TALL CREATURE",
+          "focus": "entity"
+        },
+        {
+          "still_id": "opt3_sc4_entities_angle3",
+          "angle_name": "PALE EYES IN RED SHADOW",
+          "focus": "close_up"
+        }
+      ],
+      "start_time": 163.53580336896664,
+      "end_time": 175.45723194039522
+    },
+    {
+      "type": "option_scene",
+      "option_index": 3,
+      "option_name": "OPTION 3: SECTOR 0 (RED UTILITY TUNNELS)",
+      "scene_id": "opt3_sc5_protocol",
+      "scene_type": "environment",
+      "speech": "The moment the background klaxon siren ceases, you must immediately extinguish all light sources and drop flat against the grating. Any movement is fatal.",
+      "speech_wav": "C:\\Users\\yoshikiinyein\\.gemini\\antigravity\\scratch\\analog_lore_studio\\assets\\temp_voice\\speech_opt3_sc5_protocol.wav",
+      "speech_duration": 10.392857142857142,
+      "total_duration": 10.742857142857142,
+      "pause_after": 0.35,
+      "is_option_start": false,
+      "is_deadzone": true,
+      "stills": [
+        {
+          "still_id": "opt3_sc5_protocol_angle1",
+          "angle_name": "GRATING FLOOR POV",
+          "focus": "wide"
+        },
+        {
+          "still_id": "opt3_sc5_protocol_angle2",
+          "angle_name": "SPARKS FROM CONDUIT",
+          "focus": "corridor"
+        },
+        {
+          "still_id": "opt3_sc5_protocol_angle3",
+          "angle_name": "PITCH BLACK ABYSS AHEAD",
+          "focus": "close_up"
+        }
+      ],
+      "start_time": 175.45723194039522,
+      "end_time": 186.20008908325235
+    },
+    {
+      "type": "option_scene",
+      "option_index": 3,
+      "option_name": "OPTION 3: SECTOR 0 (RED UTILITY TUNNELS)",
+      "scene_id": "opt3_sc6_verdict",
+      "scene_type": "environment",
+      "speech": "No documented explorer has ever reached the surface from Sector Zero. Your calculated twenty-four hour survival rate is zero point zero one percent. Which door did you choose?",
+      "speech_wav": "C:\\Users\\yoshikiinyein\\.gemini\\antigravity\\scratch\\analog_lore_studio\\assets\\temp_voice\\speech_opt3_sc6_verdict.wav",
+      "speech_duration": 11.592869290573372,
+      "total_duration": 12.392869290573373,
+      "pause_after": 0.8,
+      "is_option_start": false,
+      "is_deadzone": true,
+      "stills": [
+        {
+          "still_id": "opt3_sc6_verdict_angle1",
+          "angle_name": "SEALED HYDRAULIC DOOR",
+          "focus": "wide"
+        },
+        {
+          "still_id": "opt3_sc6_verdict_angle2",
+          "angle_name": "HAZARD RADIATION STRIPES",
+          "focus": "corridor"
+        },
+        {
+          "still_id": "opt3_sc6_verdict_angle3",
+          "angle_name": "PERMANENT LOCKDOWN SEAL",
+          "focus": "close_up"
+        }
+      ],
+      "start_time": 186.20008908325235,
+      "end_time": 198.59295837382572
+    }
+  ],
+  "captions": [
+    {
+      "text": "Three sealed blast doors have",
+      "start": 0.0,
+      "end": 2.1367370077282613,
+      "scene_id": "hook_01_three_doors"
+    },
+    {
+      "text": "materialized in the lower maintenance sub-level.",
+      "start": 2.1367370077282613,
+      "end": 5.673405158450901,
+      "scene_id": "hook_01_three_doors"
+    },
+    {
+      "text": "One contains survivable terrain.",
+      "start": 5.673405158450901,
+      "end": 8.031183925599327,
+      "scene_id": "hook_01_three_doors"
+    },
+    {
+      "text": "The others lead to terminal non-spaces.",
+      "start": 8.031183925599327,
+      "end": 10.904726798061471,
+      "scene_id": "hook_01_three_doors"
+    },
+    {
+      "text": "Choose your door before the lockdown seals permanently.",
+      "start": 10.904726798061471,
+      "end": 14.95715905409783,
+      "scene_id": "hook_01_three_doors"
+    },
+    {
+      "text": "If you choose Door Number One",
+      "start": 15.45715905409783,
+      "end": 17.400060641009127,
+      "scene_id": "opt1_sc1_entry"
+    },
+    {
+      "text": "you step into Level Thirty-Seven",
+      "start": 17.400060641009127,
+      "end": 19.543952047256077,
+      "scene_id": "opt1_sc1_entry"
+    },
+    {
+      "text": "commonly known as The Poolrooms.",
+      "start": 19.543952047256077,
+      "end": 21.687843453503028,
+      "scene_id": "opt1_sc1_entry"
+    },
+    {
+      "text": "The heavy iron door slams shut",
+      "start": 21.687843453503028,
+      "end": 23.697741646859544,
+      "scene_id": "opt1_sc1_entry"
+    },
+    {
+      "text": "and the latch dissolves into solid ceramic.",
+      "start": 23.697741646859544,
+      "end": 26.578595724003883,
+      "scene_id": "opt1_sc1_entry"
+    },
+    {
+      "text": "The air is humid and smells faintly of chlorinated bleach.",
+      "start": 26.928595724003884,
+      "end": 31.097949248913295,
+      "scene_id": "opt1_sc2_environment"
+    },
+    {
+      "text": "Acoustic echoes here are dilated.",
+      "start": 31.097949248913295,
+      "end": 33.470167633775546,
+      "scene_id": "opt1_sc2_environment"
+    },
+    {
+      "text": "Footsteps echo for up to twenty seconds",
+      "start": 33.470167633775546,
+      "end": 36.273698452249114,
+      "scene_id": "opt1_sc2_environment"
+    },
+    {
+      "text": "masking the sound of approaching entities.",
+      "start": 36.273698452249114,
+      "end": 39.292885487528345,
+      "scene_id": "opt1_sc2_environment"
+    },
+    {
+      "text": "For hydration",
+      "start": 39.64288548752834,
+      "end": 40.565863112313195,
+      "scene_id": "opt1_sc3_rations"
+    },
+    {
+      "text": "do not drink the standing pool water",
+      "start": 40.565863112313195,
+      "end": 43.121801150178946,
+      "scene_id": "opt1_sc3_rations"
+    },
+    {
+      "text": "as it causes severe cellular dehydration.",
+      "start": 43.121801150178946,
+      "end": 46.03273058219271,
+      "scene_id": "opt1_sc3_rations"
+    },
+    {
+      "text": "Instead, collect the fresh condensation dripping from overhead copper pipes.",
+      "start": 46.03273058219271,
+      "end": 51.428599773242624,
+      "scene_id": "opt1_sc3_rations"
+    },
+    {
+      "text": "Avoid the darker deep-end tunnels.",
+      "start": 51.778599773242625,
+      "end": 54.07568803529904,
+      "scene_id": "opt1_sc4_entities"
+    },
+    {
+      "text": "Submerged drain currents harbor shadow ripple anomalies that pull",
+      "start": 54.07568803529904,
+      "end": 58.467180300995125,
+      "scene_id": "opt1_sc4_entities"
+    },
+    {
+      "text": "survivors beneath the tiled floors without leaving a wake.",
+      "start": 58.467180300995125,
+      "end": 62.38574263038548,
+      "scene_id": "opt1_sc4_entities"
+    },
+    {
+      "text": "Stay on the elevated dry walkways.",
+      "start": 62.73574263038548,
+      "end": 64.78899011985746,
+      "scene_id": "opt1_sc5_protocol"
+    },
+    {
+      "text": "Walk toward the hum of the filtration",
+      "start": 64.78899011985746,
+      "end": 67.02340650545932,
+      "scene_id": "opt1_sc5_protocol"
+    },
+    {
+      "text": "pumps until you reach the maintenance stairwell.",
+      "start": 67.02340650545932,
+      "end": 69.92210884353742,
+      "scene_id": "opt1_sc5_protocol"
+    },
+    {
+      "text": "Your twenty-four hour survival probability is seventy-eight percent.",
+      "start": 69.92210884353742,
+      "end": 74.02860382248137,
+      "scene_id": "opt1_sc5_protocol"
+    },
+    {
+      "text": "If you open Door Number Two, you enter",
+      "start": 74.82860382248137,
+      "end": 77.24930457767817,
+      "scene_id": "opt2_sc1_entry"
+    },
+    {
+      "text": "an abandoned multi-tier shopping atrium frozen in nineteen eighty-six.",
+      "start": 77.24930457767817,
+      "end": 81.70849017935649,
+      "scene_id": "opt2_sc1_entry"
+    },
+    {
+      "text": "The air smells of old carpet and ozone.",
+      "start": 81.70849017935649,
+      "end": 84.19289358600584,
+      "scene_id": "opt2_sc1_entry"
+    },
+    {
+      "text": "An endless distorted elevator muzak plays from crackling PA speakers.",
+      "start": 84.54289358600583,
+      "end": 89.6924009751684,
+      "scene_id": "opt2_sc2_environment"
+    },
+    {
+      "text": "Prolonged exposure causes rapid short-term memory loss within forty minutes.",
+      "start": 89.6924009751684,
+      "end": 95.3643221574344,
+      "scene_id": "opt2_sc2_environment"
+    },
+    {
+      "text": "For sustenance, search the food court stockrooms",
+      "start": 95.7143221574344,
+      "end": 98.79313719255678,
+      "scene_id": "opt2_sc3_rations"
+    },
+    {
+      "text": "for intact hermetically sealed steel canned goods.",
+      "start": 98.79313719255678,
+      "end": 102.00023618747593,
+      "scene_id": "opt2_sc3_rations"
+    },
+    {
+      "text": "Never touch open beverage dispensers or warm sodas.",
+      "start": 102.00023618747593,
+      "end": 105.27147716229348,
+      "scene_id": "opt2_sc3_rations"
+    },
+    {
+      "text": "Beware the store mannequins.",
+      "start": 105.62147716229347,
+      "end": 107.39147787091025,
+      "scene_id": "opt2_sc4_entities"
+    },
+    {
+      "text": "They only relocate when unobserved.",
+      "start": 107.39147787091025,
+      "end": 109.60397875668123,
+      "scene_id": "opt2_sc4_entities"
+    },
+    {
+      "text": "If you turn a corner and notice a",
+      "start": 109.60397875668123,
+      "end": 111.69005102040815,
+      "scene_id": "opt2_sc4_entities"
+    },
+    {
+      "text": "mannequin facing toward you, immediately retrace your footsteps.",
+      "start": 111.69005102040815,
+      "end": 115.73576692581793,
+      "scene_id": "opt2_sc4_entities"
+    },
+    {
+      "text": "Cover your ears with cloth to mitigate the audio hazard",
+      "start": 116.08576692581794,
+      "end": 119.80173724251604,
+      "scene_id": "opt2_sc5_protocol"
+    },
+    {
+      "text": "stay away from reflective store glass",
+      "start": 119.80173724251604,
+      "end": 122.30157181920386,
+      "scene_id": "opt2_sc5_protocol"
+    },
+    {
+      "text": "and reach the loading bay before midnight.",
+      "start": 122.30157181920386,
+      "end": 125.13922187922786,
+      "scene_id": "opt2_sc5_protocol"
+    },
+    {
+      "text": "Survival rate is thirty-one percent.",
+      "start": 125.13922187922786,
+      "end": 127.57149335924844,
+      "scene_id": "opt2_sc5_protocol"
+    },
+    {
+      "text": "Door Number Three leads straight down into Sector Zero.",
+      "start": 128.37149335924846,
+      "end": 132.20010968884594,
+      "scene_id": "opt3_sc1_entry"
+    },
+    {
+      "text": "The heavy airlock seals automatically, locking you into",
+      "start": 132.20010968884594,
+      "end": 136.02872601844342,
+      "scene_id": "opt3_sc1_entry"
+    },
+    {
+      "text": "a subterranean network bathed in crimson emergency strobes.",
+      "start": 136.02872601844342,
+      "end": 140.13578717201165,
+      "scene_id": "opt3_sc1_entry"
+    },
+    {
+      "text": "The ambient temperature exceeds one hundred and ten degrees.",
+      "start": 140.48578717201167,
+      "end": 144.33504817352008,
+      "scene_id": "opt3_sc2_environment"
+    },
+    {
+      "text": "High pressure steam pipes periodically rupture without warning",
+      "start": 144.33504817352008,
+      "end": 148.31261787507876,
+      "scene_id": "opt3_sc2_environment"
+    },
+    {
+      "text": "causing instantaneous third-degree burns.",
+      "start": 148.31261787507876,
+      "end": 150.9429462261095,
+      "scene_id": "opt3_sc2_environment"
+    },
+    {
+      "text": "You will spot green emergency",
+      "start": 151.2929462261095,
+      "end": 153.27508908325237,
+      "scene_id": "opt3_sc3_rations"
+    },
+    {
+      "text": "ration crates placed conveniently in junctions.",
+      "start": 153.27508908325237,
+      "end": 156.4875275068977,
+      "scene_id": "opt3_sc3_rations"
+    },
+    {
+      "text": "Do not touch them.",
+      "start": 156.4875275068977,
+      "end": 157.71782307340015,
+      "scene_id": "opt3_sc3_rations"
+    },
+    {
+      "text": "These are mimic bait deployed by",
+      "start": 157.71782307340015,
+      "end": 159.90501519162675,
+      "scene_id": "opt3_sc3_rations"
+    },
+    {
+      "text": "indigenous predators to trap starving survivors.",
+      "start": 159.90501519162675,
+      "end": 163.18580336896665,
+      "scene_id": "opt3_sc3_rations"
+    },
+    {
+      "text": "The primary entity in Sector Zero mimics the",
+      "start": 163.53580336896664,
+      "end": 166.69818136364276,
+      "scene_id": "opt3_sc4_entities"
+    },
+    {
+      "text": "desperate voices of your relatives calling for help.",
+      "start": 166.69818136364276,
+      "end": 170.43553717553274,
+      "scene_id": "opt3_sc4_entities"
+    },
+    {
+      "text": "It navigates entirely by flashlight beams and acoustic resonance.",
+      "start": 170.43553717553274,
+      "end": 175.10723194039522,
+      "scene_id": "opt3_sc4_entities"
+    },
+    {
+      "text": "The moment the background klaxon siren ceases, you must immediately",
+      "start": 175.45723194039522,
+      "end": 180.03829397047042,
+      "scene_id": "opt3_sc5_protocol"
+    },
+    {
+      "text": "extinguish all light sources and drop flat against the grating.",
+      "start": 180.03829397047042,
+      "end": 184.3458597599441,
+      "scene_id": "opt3_sc5_protocol"
+    },
+    {
+      "text": "Any movement is fatal.",
+      "start": 184.3458597599441,
+      "end": 185.85008908325236,
+      "scene_id": "opt3_sc5_protocol"
+    },
+    {
+      "text": "No documented explorer has ever",
+      "start": 186.20008908325235,
+      "end": 188.3017203581516,
+      "scene_id": "opt3_sc6_verdict"
+    },
+    {
+      "text": "reached the surface from Sector Zero.",
+      "start": 188.3017203581516,
+      "end": 190.81011897657976,
+      "scene_id": "opt3_sc6_verdict"
+    },
+    {
+      "text": "Your calculated twenty-four hour survival rate",
+      "start": 190.81011897657976,
+      "end": 193.92866861030126,
+      "scene_id": "opt3_sc6_verdict"
+    },
+    {
+      "text": "is zero point zero one percent.",
+      "start": 193.92866861030126,
+      "end": 196.03029988520052,
+      "scene_id": "opt3_sc6_verdict"
+    },
+    {
+      "text": "Which door did you choose?",
+      "start": 196.03029988520052,
+      "end": 197.7929583738257,
+      "scene_id": "opt3_sc6_verdict"
+    }
+  ],
+  "duration": 198.95410430839001
+}

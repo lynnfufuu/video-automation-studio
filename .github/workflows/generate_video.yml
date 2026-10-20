@@ -1,0 +1,92 @@
+name: Dual Studio Video Generator (Cloud Render)
+
+on:
+  workflow_dispatch:
+    inputs:
+      platform:
+        description: 'Target Platform Pipeline'
+        required: true
+        default: 'tiktok_analog'
+        type: choice
+        options:
+          - 'tiktok_analog'
+          - 'youtube_essay'
+      topic_or_genre:
+        description: 'Topic, Genre, or Custom Prompt (e.g. horror, science, myth, or custom title)'
+        required: false
+        default: 'horror'
+        type: string
+      publish_youtube:
+        description: 'Publish automatically to YouTube (Requires secrets)'
+        required: false
+        default: false
+        type: boolean
+      publish_tiktok:
+        description: 'Publish automatically to TikTok (Requires secrets)'
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  render_video:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 🎬 Install FFmpeg & TrueType Fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg fonts-dejavu-core fonts-freefont-ttf
+
+      - name: 📦 Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 🔑 Configure Secrets & Environment
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          ALLOWED_CHAT_IDS: ${{ secrets.ALLOWED_CHAT_IDS }}
+          TIKTOK_SESSION_ID: ${{ secrets.TIKTOK_SESSION_ID }}
+        run: |
+          mkdir -p youtube_essay_pipeline/bot
+          echo "TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_TOKEN}" > youtube_essay_pipeline/bot/.env
+          echo "ALLOWED_CHAT_IDS=${ALLOWED_CHAT_IDS}" >> youtube_essay_pipeline/bot/.env
+          echo "TIKTOK_SESSION_ID=${TIKTOK_SESSION_ID}" >> youtube_essay_pipeline/bot/.env
+          cp youtube_essay_pipeline/bot/.env analog_lore_studio/.env || true
+
+      - name: 🎞️ Execute Generation Pipeline
+        env:
+          PYTHONPATH: "${{ github.workspace }}/youtube_essay_pipeline:${{ github.workspace }}/analog_lore_studio"
+          PLATFORM_CHOICE: ${{ inputs.platform }}
+          USER_TOPIC: ${{ inputs.topic_or_genre }}
+        run: |
+          if [ "$PLATFORM_CHOICE" = "tiktok_analog" ]; then
+            echo "🚀 Launching TikTok Analog Lore Studio..."
+            cd analog_lore_studio
+            python run_studio.py
+          else
+            echo "🚀 Launching YouTube Documentary Essay Pipeline for topic: $USER_TOPIC"
+            cd youtube_essay_pipeline
+            python src/pipeline_runner.py --genre "$USER_TOPIC"
+          fi
+
+      - name: 📤 Upload Rendered Videos as GitHub Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: rendered-videos-${{ github.run_id }}
+          path: |
+            youtube_essay_pipeline/output/*.mp4
+            youtube_essay_pipeline/output/chapters/*.mp4
+            analog_lore_studio/output/*.mp4
+          retention-days: 14
+          if-no-files-found: ignore

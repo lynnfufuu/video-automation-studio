@@ -1,0 +1,46 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Large media outputs and cache
+**/output/
+output/
+assets/episodes/
+**/assets/episodes/
+assets/temp_voice/
+**/assets/temp_voice/
+assets/sfx/
+**/assets/sfx/
+*.mp4
+*.webm
+*.avi
+*.mov
+*.wav
+*.mp3
+
+# Environment variables & secrets (CRITICAL FOR PUBLIC REPOS)
+.env
+**/.env
+*.env
+client_secret.json
+**/client_secret.json
+token.pickle
+**/token.pickle
+credentials.json
+**/credentials.json
+
+# Python bytecode & cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store

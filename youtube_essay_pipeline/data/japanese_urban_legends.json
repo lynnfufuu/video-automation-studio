@@ -1,0 +1,520 @@
+{
+  "topic_id": "japanese_urban_legends",
+  "title": "Top 5 Scariest Japanese Urban Legends Explained",
+  "genre": "Folklore, Urban Legends & Psychological Horror",
+  "narrator_voice": "en-US-AndrewMultilingualNeural",
+  "speech_rate": "-5%",
+  "ambient_volume": "18%",
+  "target_runtime_minutes": 9.2,
+  "intro_hook": {
+    "beats": [
+      {
+        "beat_id": "intro_b01",
+        "speech": "What if the worst thing you could imagine wasn't just a bedtime story, but something waiting for you at the end of an empty street?",
+        "visual_prompt": "Cinematic dark documentary style, a lone pedestrian walking down a misty Japanese suburban street at 3 AM, single flickering streetlight casting long distorted shadows"
+      },
+      {
+        "beat_id": "intro_b02",
+        "speech": "Welcome back to the channel.",
+        "visual_prompt": "Cinematic dark documentary style, vintage Japanese analog broadcast test card with chromatic aberration and faint CRT phosphor glow"
+      },
+      {
+        "beat_id": "intro_b03",
+        "speech": "Today, we are examining the top five scariest, most disturbing Japanese urban legends that have terrified generations.",
+        "visual_prompt": "Cinematic dark documentary style, a collage of weathered Japanese police case files, polaroids, and redacted investigation folders on a dark wooden desk under amber desk lamp"
+      },
+      {
+        "beat_id": "intro_b04",
+        "speech": "From eight-foot-tall entities that peer through second-story bedroom windows, to phantom railway crossings where severed spirits never stop hunting.",
+        "visual_prompt": "Cinematic dark documentary style, split composition showing a dark second-floor window in bamboo mist on the left, and a rain-slicked Tokyo subway track on the right"
+      },
+      {
+        "beat_id": "intro_b05",
+        "speech": "If you enjoy deep dives into dark folklore and psychological anomalies, hit subscribe, and let us descend into chapter one.",
+        "visual_prompt": "Cinematic dark documentary style, an old iron gate slowly swinging open into a fog-shrouded cedar mountain forest at twilight"
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Hachishakusama: The Eight-Foot Shadow",
+      "beats": [
+        {
+          "beat_id": "c1_b01",
+          "speech": "In rural Japanese prefectures, some entities do not hunt out of hunger, but for pure psychological possession.",
+          "visual_prompt": "Cinematic dark documentary style, an isolated rural Japanese mountain village at dusk, dense fog rolling over flooded rice terraces"
+        },
+        {
+          "beat_id": "c1_b02",
+          "speech": "Hachishakusama translates literally to the eight-foot-tall woman.",
+          "visual_prompt": "Cinematic dark documentary style, a towering eight-foot-tall slender female figure standing completely still behind a weathered wooden fence at twilight"
+        },
+        {
+          "beat_id": "c1_b03",
+          "speech": "She is consistently described wearing a flowing white summer dress and a wide-brimmed straw hat that conceals her eyes.",
+          "visual_prompt": "Cinematic dark documentary style, close-up of a vintage white sun-dress blowing in damp wind, wide straw hat casting deep pitch-black shadows over the face"
+        },
+        {
+          "beat_id": "c1_b04",
+          "speech": "Her approach is always announced by a bizarre, low-pitched mechanical vocalization: po, po, po.",
+          "visual_prompt": "Cinematic dark documentary style, dense bamboo stalks swaying violently in cold midnight fog, ancient stone Jizo statue covered in moss"
+        },
+        {
+          "beat_id": "c1_b05",
+          "speech": "The sound does not come from vocal cords, but resembles a hollow bass vibration resonating through the soil.",
+          "visual_prompt": "Cinematic dark documentary style, close-up of dark damp forest earth vibrating with concentric ripples in rainwater puddles"
+        },
+        {
+          "beat_id": "c1_b06",
+          "speech": "She preys almost exclusively on children and young adults who wander near isolated rural intersections.",
+          "visual_prompt": "Cinematic dark documentary style, an empty country road crossing in the mountains at twilight, yellow school bag resting abandoned on the gravel"
+        },
+        {
+          "beat_id": "c1_b07",
+          "speech": "Once she makes eye contact, her target is marked for death within days.",
+          "visual_prompt": "Cinematic dark documentary style, view looking up through thick foliage at two glassy, unblinking pale eyes glowing beneath the rim of a straw hat"
+        },
+        {
+          "beat_id": "c1_b08",
+          "speech": "Victims report waking in the dead of night to see her head level with their second-story bedroom windows.",
+          "visual_prompt": "Cinematic dark documentary style, interior of a dark second-floor tatami bedroom at 2 AM, through the sliding glass window a pale gigantic head stares inside"
+        },
+        {
+          "beat_id": "c1_b09",
+          "speech": "When village elders recognize the curse, strict traditional counter-measures are immediately enacted.",
+          "visual_prompt": "Cinematic dark documentary style, elderly Japanese villagers in traditional robes holding solemn midnight council around an ancient stone hearth"
+        },
+        {
+          "beat_id": "c1_b10",
+          "speech": "The marked individual is locked inside a windowless inner room with sacred Shinto paper talismans pasted over every seam.",
+          "visual_prompt": "Cinematic dark documentary style, shoji sliding doors sealed shut with dozens of handwritten white paper ofuda talismans"
+        },
+        {
+          "beat_id": "c1_b11",
+          "speech": "Ceramic bowls filled with coarse white sea salt are placed in the four cardinal corners of the room.",
+          "visual_prompt": "Cinematic dark documentary style, close-up of a dark ceramic bowl piled high with pure white salt, a single candle flame flickering beside it"
+        },
+        {
+          "beat_id": "c1_b12",
+          "speech": "The target is instructed never to open the door under any circumstances until the sunrise bells toll at seven AM.",
+          "visual_prompt": "Cinematic dark documentary style, an analog brass alarm clock on a tatami floor ticking toward 3:15 AM in heavy shadows"
+        },
+        {
+          "beat_id": "c1_b13",
+          "speech": "Around three fifteen in the morning, the tapping begins against the exterior glass.",
+          "visual_prompt": "Cinematic dark documentary style, long pale grey fingers with blackened nails lightly tapping against frosted window glass"
+        },
+        {
+          "beat_id": "c1_b14",
+          "speech": "Then, a voice whispers through the wood\u2014not a demon's growl, but the exact voice of the victim's loving mother.",
+          "visual_prompt": "Cinematic dark documentary style, a terrified young person huddled under blankets against the wall, eyes wide with horror staring at the door"
+        },
+        {
+          "beat_id": "c1_b15",
+          "speech": "The voice begs them to open up, crying that she is cold and scared outside in the dark.",
+          "visual_prompt": "Cinematic dark documentary style, silhouette of an enormous figure hunched against the exterior wall of the house in midnight fog"
+        },
+        {
+          "beat_id": "c1_b16",
+          "speech": "Anyone who gives in to the pleading and slides the bolt is never seen alive again.",
+          "visual_prompt": "Cinematic dark documentary style, a heavy iron sliding door latch unbolted, darkness spilling inside through the cracked opening"
+        },
+        {
+          "beat_id": "c1_b17",
+          "speech": "Even those who survive the night must be placed into a sealed van surrounded by chanting priests and permanently exiled from the prefecture.",
+          "visual_prompt": "Cinematic dark documentary style, a vintage black transport van driving down a misty mountain pass at dawn, escorted by robed figures"
+        },
+        {
+          "beat_id": "c1_b18",
+          "speech": "Because once Hachishakusama marks you, your hometown is no longer safe for the rest of your life.",
+          "visual_prompt": "Cinematic dark documentary style, rearview mirror view of an empty mountain highway receding into morning mist, with a distant tall silhouette standing by the roadside"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Teke Teke: The Phantom of the Railway Crossing",
+      "beats": [
+        {
+          "beat_id": "c2_b01",
+          "speech": "In post-war Tokyo, horror migrated from the misty forests into the screeching steel of suburban transit systems.",
+          "visual_prompt": "Cinematic dark documentary style, a deserted Tokyo commuter railway platform at midnight, cold overhead mercury vapor lights casting harsh green shadows"
+        },
+        {
+          "beat_id": "c2_b02",
+          "speech": "The legend of Teke Teke originated in Hokkaido during a brutally freezing winter evening.",
+          "visual_prompt": "Cinematic dark documentary style, railway tracks covered in heavy snow and ice at a desolate northern Japanese train station"
+        },
+        {
+          "beat_id": "c2_b03",
+          "speech": "A young female student fell or jumped onto the tracks directly in front of an oncoming express locomotive.",
+          "visual_prompt": "Cinematic dark documentary style, blinding white twin headlights of an approaching train cutting through heavy falling snow"
+        },
+        {
+          "beat_id": "c2_b04",
+          "speech": "The impact severed her body in half at the waist, but the freezing temperature caused her blood vessels to constrict instantly.",
+          "visual_prompt": "Cinematic dark documentary style, dark red stain freezing into cracked black asphalt beside frozen steel train rails"
+        },
+        {
+          "beat_id": "c2_b05",
+          "speech": "Instead of dying immediately, she remained conscious for minutes, filled with an all-consuming vengeful rage.",
+          "visual_prompt": "Cinematic dark documentary style, a pair of worn school shoes resting abandoned on a concrete platform beside bloodied rail tracks"
+        },
+        {
+          "beat_id": "c2_b06",
+          "speech": "Her spirit transformed into an Onry\u014d, a relentless vengeful ghost bound to the physical realm.",
+          "visual_prompt": "Cinematic dark documentary style, a terrifying ghostly female silhouette with tangled black hair hovering low over cracked concrete"
+        },
+        {
+          "beat_id": "c2_b07",
+          "speech": "Lacking lower limbs, she propels her upper torso across the ground using her hands and clawed elbows.",
+          "visual_prompt": "Cinematic dark documentary style, low-angle shot of clawed hands dragging across wet asphalt between vintage Japanese vending machines"
+        },
+        {
+          "beat_id": "c2_b08",
+          "speech": "As her elbows strike the pavement, they produce a distinctive, rhythmic scraping sound: teke... teke... teke.",
+          "visual_prompt": "Cinematic dark documentary style, extreme close-up of rough concrete gouged by sharp bone-like claws under flickering neon signs"
+        },
+        {
+          "beat_id": "c2_b09",
+          "speech": "Despite having no legs, her crawling speed is horrifyingly unnatural.",
+          "visual_prompt": "Cinematic dark documentary style, motion-blurred nocturnal street scene with a low shadow darting past parked bicycles at impossible speed"
+        },
+        {
+          "beat_id": "c2_b10",
+          "speech": "Urban folklore warns that she can outrun a sprinting teenager and even keep pace with an automobile.",
+          "visual_prompt": "Cinematic dark documentary style, side view from inside a car driving at night, catching a blurred crawling figure matching the car's speed in the headlights"
+        },
+        {
+          "beat_id": "c2_b11",
+          "speech": "She hunts late-night commuters in pedestrian underpasses, train crossings, and deserted alleyways.",
+          "visual_prompt": "Cinematic dark documentary style, a long subterranean tiled pedestrian tunnel under Tokyo, overhead lights buzzing in deep perspective"
+        },
+        {
+          "beat_id": "c2_b12",
+          "speech": "In her grasp, she carries a rusted hand-scythe or carpenter's saw.",
+          "visual_prompt": "Cinematic dark documentary style, close-up of a rusted steel scythe blade scraping along a concrete curb, throwing faint sparks"
+        },
+        {
+          "beat_id": "c2_b13",
+          "speech": "When she overtakes her victim, she strikes at the waist, bisecting them so they share her eternal torment.",
+          "visual_prompt": "Cinematic dark documentary style, shadow on a brick wall showing a raised curved blade descending sharply under a sodium streetlamp"
+        },
+        {
+          "beat_id": "c2_b14",
+          "speech": "Unlike Western ghosts that haunt specific rooms, Teke Teke prowls the open streets.",
+          "visual_prompt": "Cinematic dark documentary style, an empty Japanese suburban crosswalk in rain, flashing pedestrian red hand signal glowing"
+        },
+        {
+          "beat_id": "c2_b15",
+          "speech": "There are no protective wards, no rituals, and no apologies that can pacify her fury.",
+          "visual_prompt": "Cinematic dark documentary style, cracked asphalt with claw drag marks leading straight into a dark storm drain opening"
+        },
+        {
+          "beat_id": "c2_b16",
+          "speech": "The only recorded defense is to answer her questions with specific riddle phrases, or avoid traveling alone past midnight.",
+          "visual_prompt": "Cinematic dark documentary style, an analog public payphone receiver dangling off its hook in an empty glass telephone booth in rain"
+        },
+        {
+          "beat_id": "c2_b17",
+          "speech": "If you ever find yourself walking home along the train tracks at night and hear a rhythmic tapping scraping behind you...",
+          "visual_prompt": "Cinematic dark documentary style, POV looking back over one's shoulder into the blackness of empty railroad tracks"
+        },
+        {
+          "beat_id": "c2_b18",
+          "speech": "Do not look back. Run.",
+          "visual_prompt": "Cinematic dark documentary style, sudden flash of a pale contorted face lunging toward the camera lens from ground level in the dark"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Kuchisake-onna: The Slit-Mouthed Woman",
+      "beats": [
+        {
+          "beat_id": "c3_b01",
+          "speech": "In the spring of 1979, mass hysteria swept across elementary schools in Nagasaki and Gifu prefectures.",
+          "visual_prompt": "Cinematic dark documentary style, vintage 1979 Japanese newspaper front page with sensational headlines about a masked woman in school zones"
+        },
+        {
+          "beat_id": "c3_b02",
+          "speech": "Police departments increased patrols, and parents formed group escort brigades to walk children home.",
+          "visual_prompt": "Cinematic dark documentary style, vintage Japanese black-and-white police cruisers parked outside an elementary school gate at dusk"
+        },
+        {
+          "beat_id": "c3_b03",
+          "speech": "The panic was triggered by sightings of Kuchisake-onna, the slit-mouthed woman.",
+          "visual_prompt": "Cinematic dark documentary style, a tall woman in a beige 1970s trench coat standing motionless under a telephone pole at dusk"
+        },
+        {
+          "beat_id": "c3_b04",
+          "speech": "She appears on quiet neighborhood roads in the late afternoon, wearing a surgical face mask common in Japan.",
+          "visual_prompt": "Cinematic dark documentary style, close-up of a woman's face wearing a white cotton surgical mask, piercing dark eyes staring intently"
+        },
+        {
+          "beat_id": "c3_b05",
+          "speech": "She approaches unaccompanied pedestrians and asks a single polite question: Am I pretty?",
+          "visual_prompt": "Cinematic dark documentary style, POV of an unsuspecting student walking home past vending machines as the woman steps into their path"
+        },
+        {
+          "beat_id": "c3_b06",
+          "speech": "If the victim answers no, she produces a pair of heavy tailor's shears and murders them on the spot.",
+          "visual_prompt": "Cinematic dark documentary style, close-up of long gleaming steel shears sliding out from the deep pocket of a beige trench coat"
+        },
+        {
+          "beat_id": "c3_b07",
+          "speech": "If the victim answers yes, she removes the mask to reveal her mouth slashed ear to ear in a grotesque permanent grin.",
+          "visual_prompt": "Cinematic dark documentary style, the surgical mask pulled down revealing jagged stitched scars carving up across both cheeks to the ears"
+        },
+        {
+          "beat_id": "c3_b08",
+          "speech": "She then asks again in a deeper, distorted voice: Even now?",
+          "visual_prompt": "Cinematic dark documentary style, terrifying close-up of a bloodstained smile exposing rows of sharp teeth under cold streetlamps"
+        },
+        {
+          "beat_id": "c3_b09",
+          "speech": "If they scream or say no, she cuts them in half. If they say yes, she slits their face to match her own.",
+          "visual_prompt": "Cinematic dark documentary style, blood spatter across a concrete block wall beneath a broken streetlamp"
+        },
+        {
+          "beat_id": "c3_b10",
+          "speech": "Her origins date back to the Edo period, where folklore speaks of a samurai's unfaithful wife punished with disfigurement.",
+          "visual_prompt": "Cinematic dark documentary style, an antique Edo-period Japanese ukiyo-e woodblock print depicting a shadowed woman with a concealed face"
+        },
+        {
+          "beat_id": "c3_b11",
+          "speech": "In 1979, the myth adapted seamlessly to modern Japanese urban culture.",
+          "visual_prompt": "Cinematic dark documentary style, an empty playground with swings moving gently in the evening breeze under orange smoggy skies"
+        },
+        {
+          "beat_id": "c3_b12",
+          "speech": "Schoolchildren shared rumors of how to escape her grasp.",
+          "visual_prompt": "Cinematic dark documentary style, a vintage school notebook covered in hurried childlike pencil drawings and warnings"
+        },
+        {
+          "beat_id": "c3_b13",
+          "speech": "One method was to confuse her with ambiguous answers like, You look average, or So-so.",
+          "visual_prompt": "Cinematic dark documentary style, the woman tilting her head in deep confusion under the amber glow of a streetlamp"
+        },
+        {
+          "beat_id": "c3_b14",
+          "speech": "This would buy precious seconds of hesitation for the target to sprint away.",
+          "visual_prompt": "Cinematic dark documentary style, motion blur of running down an empty Japanese residential alleyway between concrete walls"
+        },
+        {
+          "beat_id": "c3_b15",
+          "speech": "Another tactic was throwing hard candies like bekko-ame on the ground, which she allegedly could not resist picking up.",
+          "visual_prompt": "Cinematic dark documentary style, golden amber hard candies scattered on wet asphalt, reflecting neon city signs"
+        },
+        {
+          "beat_id": "c3_b16",
+          "speech": "While the 1979 hysteria eventually subsided, modern sightings continue to resurface across Japanese message boards.",
+          "visual_prompt": "Cinematic dark documentary style, a glowing CRT monitor in a dark bedroom displaying 1990s Japanese forum text threads"
+        },
+        {
+          "beat_id": "c3_b17",
+          "speech": "Reminding us that some urban legends are not created by imagination, but born from real collective dread.",
+          "visual_prompt": "Cinematic dark documentary style, a woman in a trench coat standing at the end of a long dark corridor, watching in silence"
+        },
+        {
+          "beat_id": "c3_b18",
+          "speech": "Next time someone in a surgical mask asks for directions on an empty road, choose your words very carefully.",
+          "visual_prompt": "Cinematic dark documentary style, taillights of a distant car disappearing around a dark bend, leaving total silence in the street"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Aka Manto: The Red Cape in the Fourth Stall",
+      "beats": [
+        {
+          "beat_id": "c4_b01",
+          "speech": "Every Japanese school possesses its own catalog of Seven Wonders, but none are more infamous than Aka Manto.",
+          "visual_prompt": "Cinematic dark documentary style, an old Japanese public school hallway after hours, polished wooden floors reflecting twilight through tall windows"
+        },
+        {
+          "beat_id": "c4_b02",
+          "speech": "Known as the Red Cloak or Red Cape, this spirit inhabits the last stall of public restrooms, typically the fourth stall.",
+          "visual_prompt": "Cinematic dark documentary style, view down a row of wooden bathroom stall doors, the fourth door marked with a painted number 4"
+        },
+        {
+          "beat_id": "c4_b03",
+          "speech": "In Japanese numerology, the number four is pronounced shi, sharing the exact pronunciation with the word for death.",
+          "visual_prompt": "Cinematic dark documentary style, close-up of a weathered sign with the Japanese kanji for four, surrounded by faint red paint splatters"
+        },
+        {
+          "beat_id": "c4_b04",
+          "speech": "When a student enters the stall and realizes the toilet paper has run out, a disembodied voice breaks the silence.",
+          "visual_prompt": "Cinematic dark documentary style, inside a dim cramped bathroom stall, empty brass toilet paper holder glinting under a single bulb"
+        },
+        {
+          "beat_id": "c4_b05",
+          "speech": "The voice asks with eerie calm: Do you want red paper, or blue paper?",
+          "visual_prompt": "Cinematic dark documentary style, two rolls of colored paper, one crimson and one cobalt, sitting on a dark ledge in shadows"
+        },
+        {
+          "beat_id": "c4_b06",
+          "speech": "This question is an inescapable executioner's riddle.",
+          "visual_prompt": "Cinematic dark documentary style, an old porcelain sink stained with rust and mineral deposits under a flickering fluorescent tube"
+        },
+        {
+          "beat_id": "c4_b07",
+          "speech": "If the student chooses red paper, Aka Manto tears through the door and flays their skin off, drenching their clothes in crimson blood.",
+          "visual_prompt": "Cinematic dark documentary style, dark crimson paint or blood dripping down white ceramic bathroom tiles into a stainless steel floor drain"
+        },
+        {
+          "beat_id": "c4_b08",
+          "speech": "If the student chooses blue paper, the entity strangles or drains them until their face turns completely blue from asphyxiation.",
+          "visual_prompt": "Cinematic dark documentary style, cold blue shadows engulfing a bathroom mirror, showing a faint impression of choking hands"
+        },
+        {
+          "beat_id": "c4_b09",
+          "speech": "Attempts to outsmart the entity by asking for yellow, green, or rainbow paper result in an immediate dragging down into the underworld.",
+          "visual_prompt": "Cinematic dark documentary style, the floor beneath a toilet stall cracking open into pitch-black subterranean void"
+        },
+        {
+          "beat_id": "c4_b10",
+          "speech": "The spirit is described as an extraordinarily handsome man wearing a flowing scarlet cape and a white porcelain mask.",
+          "visual_prompt": "Cinematic dark documentary style, an ethereal male figure wearing an ornate white Noh mask and heavy crimson cape standing in twilight"
+        },
+        {
+          "beat_id": "c4_b11",
+          "speech": "The mask conceals his true demonic features, hiding the rotting essence beneath his aristocratic facade.",
+          "visual_prompt": "Cinematic dark documentary style, hairline crack splitting down a smooth white porcelain mask revealing dark pulsating shadows underneath"
+        },
+        {
+          "beat_id": "c4_b12",
+          "speech": "The legend dates back to the 1930s, evolving alongside Japan's rapid modernization of public school facilities.",
+          "visual_prompt": "Cinematic dark documentary style, vintage sepia photograph of a 1930s Japanese wooden schoolhouse with children in uniform"
+        },
+        {
+          "beat_id": "c4_b13",
+          "speech": "Psychologists view Aka Manto as an architectural manifestation of vulnerability.",
+          "visual_prompt": "Cinematic dark documentary style, top-down architectural blueprint of a school restroom with red grease pencil circles marking exit routes"
+        },
+        {
+          "beat_id": "c4_b14",
+          "speech": "A bathroom stall is the one place where a person is physically trapped, disrobed, and unable to defend themselves.",
+          "visual_prompt": "Cinematic dark documentary style, shadows stretching under the bottom gap of a closed stall door, revealing two leather boots standing motionless outside"
+        },
+        {
+          "beat_id": "c4_b15",
+          "speech": "The only documented way to survive the encounter is to state firmly: I do not need any paper.",
+          "visual_prompt": "Cinematic dark documentary style, a closed wooden stall door trembling as the air pressure drops in the quiet room"
+        },
+        {
+          "beat_id": "c4_b16",
+          "speech": "Or by turning on your heel and sprinting out of the restroom before answering the voice.",
+          "visual_prompt": "Cinematic dark documentary style, sprinting through double swing doors of a school restroom out into an empty moonlit courtyard"
+        },
+        {
+          "beat_id": "c4_b17",
+          "speech": "To this day, students in Japanese boarding schools avoid using the fourth stall after sundown.",
+          "visual_prompt": "Cinematic dark documentary style, fourth stall door locked with a rusted padlock, warning tape wrapped across the handle"
+        },
+        {
+          "beat_id": "c4_b18",
+          "speech": "Because some questions have no right answer.",
+          "visual_prompt": "Cinematic dark documentary style, a single red cloth ribbon drifting gently onto the cold tiles of an empty bathroom floor"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "The Inunaki Village Tunnel: The Lawless Anomaly",
+      "beats": [
+        {
+          "beat_id": "c5_b01",
+          "speech": "While most urban legends center on phantom spirits, our final entry is an actual physical location on the map of Fukuoka Prefecture.",
+          "visual_prompt": "Cinematic dark documentary style, topographical satellite map of Kyushu, Japan, zooming into the dense forested mountains of Fukuoka"
+        },
+        {
+          "beat_id": "c5_b02",
+          "speech": "Deep in the Inunaki mountain pass lies an abandoned, single-lane concrete tunnel sealed off with heavy cinderblock barriers.",
+          "visual_prompt": "Cinematic dark documentary style, mouth of an abandoned moss-covered concrete tunnel in deep mountain forest, entrance partially blocked by cracked cinderblocks"
+        },
+        {
+          "beat_id": "c5_b03",
+          "speech": "Beside the moss-covered entrance stands a hand-painted wooden warning sign.",
+          "visual_prompt": "Cinematic dark documentary style, close-up of a weathered, blood-spattered wooden signboard posted on a rotting cedar tree"
+        },
+        {
+          "beat_id": "c5_b04",
+          "speech": "The inscription reads: The Constitution and laws of Japan do not apply past this point.",
+          "visual_prompt": "Cinematic dark documentary style, close-up of faded Japanese calligraphy reading 'Nihon-koku Kenp\u014d tsuuy\u014d sezu' carved into wood"
+        },
+        {
+          "beat_id": "c5_b05",
+          "speech": "Beyond the tunnel supposedly lies Inunaki Village, a settlement completely severed from modern Japanese civilization.",
+          "visual_prompt": "Cinematic dark documentary style, aerial view of thick pine canopy shrouded in dense white fog in a secluded mountain valley"
+        },
+        {
+          "beat_id": "c5_b06",
+          "speech": "Legend states that during the Edo period, the village isolated itself to escape plague and taxes, turning completely inward.",
+          "visual_prompt": "Cinematic dark documentary style, ancient weathered wooden Japanese farmhouses overgrown with vines, rotting roofs under a gray overcast sky"
+        },
+        {
+          "beat_id": "c5_b07",
+          "speech": "Over centuries of genetic isolation and lawlessness, the inhabitants developed extreme hostility toward all outsiders.",
+          "visual_prompt": "Cinematic dark documentary style, shadowed figures standing motionless among the trees with sickle blades and wooden torches"
+        },
+        {
+          "beat_id": "c5_b08",
+          "speech": "Electronic devices, cell phones, and GPS navigation units reportedly malfunction the moment you cross the tunnel threshold.",
+          "visual_prompt": "Cinematic dark documentary style, a modern smartphone screen glitching with static and dead battery icons inside a dark tunnel"
+        },
+        {
+          "beat_id": "c5_b09",
+          "speech": "In 1988, the legend collided with horrifying reality.",
+          "visual_prompt": "Cinematic dark documentary style, vintage 1988 Japanese police evidence tape stretched across a mountain road barricade"
+        },
+        {
+          "beat_id": "c5_b10",
+          "speech": "A group of delinquent youths abducted a 20-year-old factory worker in Fukuoka, dragged him into the old Inunaki tunnel, and murdered him in brutal fashion.",
+          "visual_prompt": "Cinematic dark documentary style, interior of the old Inunaki tunnel, water dripping from concrete ceiling onto blackened charred pavement"
+        },
+        {
+          "beat_id": "c5_b11",
+          "speech": "The perpetrators were apprehended, but the gruesome crime permanently cemented the tunnel's reputation as a cursed perimeter.",
+          "visual_prompt": "Cinematic dark documentary style, vintage Japanese newspaper clipping from December 1988 detailing the Inunaki pass investigation"
+        },
+        {
+          "beat_id": "c5_b12",
+          "speech": "Soon after, the Fukuoka prefectural government poured massive concrete blocks to seal both entrances permanently.",
+          "visual_prompt": "Cinematic dark documentary style, massive gray concrete blocks stacked high across the tunnel mouth, spray-painted with red warning kanji"
+        },
+        {
+          "beat_id": "c5_b13",
+          "speech": "Yet urban explorers who scale the barriers report hearing barking hounds and guttural shouting echoing from the pitch-black bore.",
+          "visual_prompt": "Cinematic dark documentary style, view looking through a narrow gap between concrete barrier blocks into absolute, infinite darkness"
+        },
+        {
+          "beat_id": "c5_b14",
+          "speech": "Security cameras installed by the forestry department frequently capture disoriented trespassers running frantically back toward the highway.",
+          "visual_prompt": "Cinematic dark documentary style, grainy green night-vision security camera footage showing an empty mountain road with a fleeing silhouette"
+        },
+        {
+          "beat_id": "c5_b15",
+          "speech": "Whether the village exists or was flooded by the construction of the Inunaki Dam remains a fiercely debated mystery.",
+          "visual_prompt": "Cinematic dark documentary style, massive concrete hydroelectric dam wall rising out of dark mountain reservoir water at twilight"
+        },
+        {
+          "beat_id": "c5_b16",
+          "speech": "What is certain is that the old tunnel remains one of the darkest psychological scars in Japanese folklore.",
+          "visual_prompt": "Cinematic dark documentary style, rusted chainlink fence with barbed wire guarding the overgrown trail to the old mountain pass"
+        },
+        {
+          "beat_id": "c5_b17",
+          "speech": "A grim reminder that the most terrifying monsters are not always supernatural entities, but the atrocities committed by human hands.",
+          "visual_prompt": "Cinematic dark documentary style, a lone bouquet of wilted white chrysanthemum memorial flowers resting against the stone tunnel portal"
+        },
+        {
+          "beat_id": "c5_b18",
+          "speech": "And that some boundaries were sealed shut for a reason.",
+          "visual_prompt": "Cinematic dark documentary style, slow camera pull-back from the sealed Inunaki tunnel entrance as fog completely swallows the mountain forest into blackness"
+        }
+      ]
+    }
+  ]
+}
